@@ -77,5 +77,9 @@ node app.js
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/ruby/ruby-original.svg" title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
 </div>
 
+<br> <hr>
+## Thanks To
+`anuraghazra` For [Top Langs,GitHub Stats,GitHub Repo Pin Card](https://github.com/anuraghazra/github-readme-stats) <br>
+`DenverCoder1` For [GitHub Streak](https://git.io/streak-stats) and [Typing Text](https://git.io/typing-svg)
 
 
