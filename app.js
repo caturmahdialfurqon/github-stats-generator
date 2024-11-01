@@ -179,6 +179,9 @@ const askForLanguage = async () => {
 };
 
 const saveFile = () => {
+    if (!fs.existsSync('readme.md')) {
+        fs.writeFileSync('readme.md', '');
+    }
   const output = '\n\n## 🛠️ Languages :\n\n<div>\n' + languages.map(language => 
     `  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/${language}/${language}-original.svg" title="${language}" alt="${language}" width="40" height="40"/>&nbsp;`
   ).join('\n') + '\n</div>\n\n';
