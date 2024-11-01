@@ -37,7 +37,7 @@ node app.js
 
 ## GitHub Stats:
 
-[![caturmahdialfurqon GitHub stats](https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![caturmahdialfurqon GitHub stats](https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&rank_icon=github&show_icons=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## GitHub Streak:
